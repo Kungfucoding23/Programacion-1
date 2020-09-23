@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Ej10.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="40"/>
+        <CursorPos X="9" Y="68"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="9" HistoryIndex="8">
+      <Position1>
+        <Filename Value="Ej10.lpr"/>
+        <Caret Line="24" Column="37"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Ej10.lpr"/>
+        <Caret Line="22" Column="12"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Ej10.lpr"/>
+        <Caret Line="21" Column="25"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Ej10.lpr"/>
+        <Caret Line="22" Column="11"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Ej10.lpr"/>
+        <Caret Line="24" Column="9"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Ej10.lpr"/>
+        <Caret Line="18" Column="27"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Ej10.lpr"/>
+        <Caret Line="92" Column="12"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Ej10.lpr"/>
+        <Caret Line="95" Column="9" TopLine="43"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Ej10.lpr"/>
+        <Caret Line="64" Column="9" TopLine="45"/>
+      </Position9>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
